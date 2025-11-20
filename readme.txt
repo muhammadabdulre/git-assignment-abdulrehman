@@ -1,2 +1,1 @@
-This text is from main branch.
-
+This is the final, resolved text.
